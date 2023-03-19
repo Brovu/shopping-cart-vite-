@@ -1,0 +1,34 @@
+[
+    {
+
+        "id": 1,
+        "name": "Dell 7559",
+        "price": 300,
+        "imgUrl": "/imgs/dell7559.jpeg"
+        
+    },
+    {
+
+        "id": 2,
+        "name": "Dell E7380",
+        "price": 280,
+        "imgUrl": "/imgs/dell7380.jpg"
+        
+    },
+    {
+
+        "id": 3,
+        "name": "HP 860",
+        "price": 450,
+        "imgUrl": "/imgs/hp860.jpg"
+        
+    }, {
+
+        "id": 4,
+        "name": "Lenovo Thinkpad",
+        "price": 250,
+        "imgUrl": "/imgs/lenovo.jpg"
+        
+    }
+
+]
